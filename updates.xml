@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='jhkbjcjiejpgdpbclbpihkbhofmeeejg'>
-    <updatecheck codebase='https://realty360degree.com/files/extension.crx' version='1.0' />
+    <updatecheck codebase='https://github.com/Techmohit8888/Realty_Chrome_Assets/raw/refs/heads/main/realty-brand-extension.crx' version='1.0' />
   </app>
 </gupdate>
